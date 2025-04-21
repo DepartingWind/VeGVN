@@ -12,4 +12,4 @@ The code can be run in the following ways:
 python VeGVN.py --gpu 0
 ```
 
-Dataset is available at (dataset)[https://pan.baidu.com/s/1L0Dn4VeUFuMqlG1cxrLuxw?pwd=58s3].
+Dataset is available at https://pan.baidu.com/s/1L0Dn4VeUFuMqlG1cxrLuxw?pwd=58s3.
